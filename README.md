@@ -1,8 +1,8 @@
-Yeh hai updated GitHub profile README file ka example jo aapke skills ko highlight karta hai:
+
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Atul+Yadav!&center=true&size=35">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hy,+I'm+Atul+Yadav!&center=true&size=35">
 </h1>
 
 <h3 align="center">A passionate developer with expertise in:</h3>
