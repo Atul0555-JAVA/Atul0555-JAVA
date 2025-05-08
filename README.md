@@ -2,7 +2,7 @@ Yeh hai updated GitHub profile README file ka example jo aapke skills ko highlig
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Atul+Singh+Yadav!&center=true&size=35">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Atul+Yadav!&center=true&size=35">
 </h1>
 
 <h3 align="center">A passionate developer with expertise in:</h3>
@@ -39,4 +39,4 @@ Yeh hai updated GitHub profile README file ka example jo aapke skills ko highlig
 </p>
 
 
-Ismein aapne skills ko highlight kiya gaya hai, jaise Spring Boot, Hibernate, MySQL, HTML, CSS, JavaScript, aur React. Aap apne social media links ko bhi add kar sakte hain.
+
